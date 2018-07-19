@@ -1,0 +1,40 @@
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe.config
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.pdb
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csprojAssemblyReference.cache
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.Form1.resources
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.Properties.Resources.resources
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.GenerateResource.cache
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.exe
+c:\users\user\source\repos\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.pdb
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csprojAssemblyReference.cache
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.Form1.resources
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.Properties.Resources.resources
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.GenerateResource.cache
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.CoreCompileInputs.cache
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.exe
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.pdb
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe.config
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.pdb
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe.config
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.exe
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\bin\Debug\CalculatorTask.pdb
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.Form1.resources
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.Properties.Resources.resources
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.exe
+C:\Users\user\Desktop\CalculatorTask\CalculatorTask\obj\Debug\CalculatorTask.pdb
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\bin\Debug\CalculatorTask.exe.config
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\bin\Debug\CalculatorTask.exe
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\bin\Debug\CalculatorTask.pdb
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\obj\Debug\CalculatorTask.csprojAssemblyReference.cache
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\obj\Debug\CalculatorTask.Form1.resources
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\obj\Debug\CalculatorTask.Properties.Resources.resources
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\obj\Debug\CalculatorTask.csproj.GenerateResource.cache
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\obj\Debug\CalculatorTask.csproj.CoreCompileInputs.cache
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\obj\Debug\CalculatorTask.exe
+\\ITSTEP\students redirection$\Nasi_cs44\Desktop\Calculator\CalculatorTask\obj\Debug\CalculatorTask.pdb
